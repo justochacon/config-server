@@ -1,1 +1,1 @@
-# config-server
+# ms-configserver
